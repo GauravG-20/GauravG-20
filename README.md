@@ -1,3 +1,5 @@
+[![MasterHead](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1610040100/Linkedin_Cover_-_Data_Enthusiast_qgfd0z.png)](https://github.com/GauravG-20)
+
 # <div align="center">Hey 👋, I'm Gaurav Gupta!</div>  
   
 
