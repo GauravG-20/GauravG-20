@@ -1,24 +1,20 @@
 [![MasterHead](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1610040100/Linkedin_Cover_-_Data_Enthusiast_qgfd0z.png)](https://github.com/GauravG-20)
 
-# <div align="center">Hey 👋, I'm Gaurav Gupta!</div>  
-  
+# <h2> Hey 👋, I'm Gaurav Gupta! </h2> <img align ='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"  width="250">
 
-<div align="center">
-<a href="https://linkedin.com/in/gaurav-gupta-911463210" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/gaurav.904_" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/GauravG-20" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+# Welcome to my Github profile
 
-<br/>  
+Hello, I'm a passionate machine-learning enthusiast interested in transforming raw data into valuable insights. My expertise revolves around image and text processing tasks, where I've delved into complex projects, leveraging cutting-edge techniques to extract meaningful information.
 
+My journey in data science has equipped me with proficiency in data analysis, machine learning methodologies, and the development of end-to-end data science solutions. My ultimate goal is to utilize my expertise to address real-world challenges and positively impact society.
 
+I am always eager to embrace new challenges and opportunities for growth in the field of machine learning. Let's connect on LinkedIn and Twitter to embark on this exciting journey together. Stay tuned to witness my latest projects, discoveries, and contributions to the world of data science!
+
+Currently in my 4th year of college, pursuing an undergrad in CSE. 🎓
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gaurav-gupta-911463210/)](https://www.linkedin.com/in/gaurav-gupta-911463210/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gauravgupta.092002@gmail.com)](mailto:gauravgupta.092002@gmail.com)   
+<br/>
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
